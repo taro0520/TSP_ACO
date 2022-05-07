@@ -6,4 +6,4 @@
 
 hackmd: https://hackmd.io/@taro0520/TSP_ACO  
 
-測資: http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/ (eil51)
+測資使用: http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/ (eil51)
